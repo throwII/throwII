@@ -3,11 +3,11 @@ Welcome to my profile!
 | Professional Scripter | Phoenix International Chairman | Entry Point Player |
 
 Contacts:
-  Discord: that one cat #8008
-  Twitter: throwawayII
-  Youtube: upgoats
-  Email: nguyenreads@gmail.com
-  Twitch: throwawayii
+Discord: that one cat #8008
+Twitter: throwawayII
+Youtube: upgoats
+Email: nguyenreads@gmail.com
+Twitch: throwawayii
 
 <!---
 throwII/throwII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
