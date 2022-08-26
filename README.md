@@ -1,7 +1,3 @@
-Welcome to my profile!
-
-| Professional Scripter | Phoenix International Chairman | Entry Point Player |
-
 Contacts:
 Discord: that one cat #8008
 Twitter: throwawayII
